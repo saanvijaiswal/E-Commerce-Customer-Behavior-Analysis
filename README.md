@@ -1,1 +1,24 @@
 # E-Commerce-Customer-Behavior-Analysis
+
+This project analyzes an e-commerce dataset to uncover customer buying patterns, sales trends, and repeat purchase behavior.
+
+I built the end-to-end pipeline using:
+- **Python** for data cleaning and RFM segmentation
+- **SQL** for structured querying
+- **Power BI** for interactive visualization and insights
+
+
+## Dashboard Preview
+
+**Sales by Country**
+![Sales by Country](images/Sort_By_Country.png)
+
+**Customer Repeat Purchase Behavior**
+![Repeat Purchase](images/Customer_Purchase_Behavior.png)
+
+
+- **France, UK, and Germany** drive 70% of total sales.
+- Peak order hours are between **10 AM – 1 PM**.
+- ~58% of customers are **one-time buyers**, 10% are **loyal buyers** (6+ orders).
+- High revenue correlation between **order frequency** and **average spend**.
+
