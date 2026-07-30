@@ -10,11 +10,12 @@ I built the end-to-end pipeline using:
 
 ## Dashboard Preview
 
-**Sales by Country**
-![Sales by Country](Sort_By_Country.png)
+**Dashboard after Sorting by Country**
+<img width="1432" height="812" alt="image" src="https://github.com/user-attachments/assets/c073eb79-c11f-43c7-9cb1-ebcc74691120" />
+
 
 **Customer Repeat Purchase Behavior**
-![Repeat Purchase](Customer_Purchase_Behavior.png)
+<img width="473" height="477" alt="image" src="https://github.com/user-attachments/assets/4b86d187-0df4-4a11-ae78-3316cedb834f" />
 
 
 - **France, UK, and Germany** drive 70% of total sales.
