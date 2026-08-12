@@ -2,6 +2,11 @@
 
 A revenue-concentration and retention analysis built on 1 year of UK e-commerce transaction data (UCI Online Retail dataset), identifying where revenue is concentrated, which customers are lapsing, and how much of that lapsed revenue is recoverable.
 
+## Business Question
+
+**Which customer segments and product categories should the business prioritize to grow repeat revenue, and where is demand concentrated?**
+Acquiring a new customer costs more than retaining one - so understanding who buys once vs. who comes back, and what drives that difference, directly informs where marketing and retention budget should go.
+
 ## Key Findings
 - Revenue is heavily concentrated in a single segment. "Champions" -> customers who purchase both recently and repeatedly - account for $2.65M of $3.87M total revenue (~68%), despite being a minority of the customer base.
 - ~$0.85M in revenue sits with At Risk and Lost customers ($0.53M + $0.32M combined) -> customers who were once active but have gone quiet. This is a sized, actionable target for a retention campaign, not a vague "win back lapsed users" instruction.
